@@ -1,9 +1,9 @@
 ### Olá pessoal! Eu sou a Francine Cruz 👋👋
 - 🔭 Atualmente, estou a procura de um estágio.
-- 🌱 Estudando Engenharia de Software e Inglês.
+- 🌱 Estudando Engenharia de Software.
+- ✅ Inglês e espanhol.
 - 📫 Email de contato: francine.c.oliveiracruz@gmail.com
 
-![Francine GitHub stats](https://github-readme-stats.vercel.app/api?username=francine02&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&theme=highcontrast)
 
 ## Habilidades:
