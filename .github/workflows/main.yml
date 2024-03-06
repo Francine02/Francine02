@@ -1,5 +1,8 @@
 name: Generate Datas
-
+permissions:
+    contents: write
+    pull-requests: write
+     
 on:
   schedule: # execute every 6 hours
     - cron: "* */4 * * *"
