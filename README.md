@@ -18,3 +18,6 @@
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/Francine02/Francine02/output/snake.svg" alt="Snake animation" />
+
+###
