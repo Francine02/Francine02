@@ -35,7 +35,7 @@ Fique à vontade para entrar em contato! Seja para trocar ideias, propor colabor
 <table align="center">
   <tr>
     <td>
-      <img width="350rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&theme=highcontrast" />
+      <img width="350rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=highcontrast" />
     </td>
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=highcontrast" alt="Github Stats"/>
