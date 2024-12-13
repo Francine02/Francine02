@@ -7,7 +7,7 @@
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 ### 🌍 Sobre Mim
-Olá! Sou Francine, desenvolvedora em formação. No meu dia a dia, estou mergulhada no universo do desenvolvimento de projetos Full Stack, combinando teoria e prática para criar soluções que tragam valor. Sou organizada, resiliente e sempre pronta para enfrentar desafios com uma abordagem metódica e colaborativa.
+Olá! Sou Francine, desenvolvedora em formação. No meu dia a dia, estou mergulhada no universo do desenvolvimento de projetos Full Stack, combinando teoria e prática para criar soluções que tragam valor.
 
 ---
 
