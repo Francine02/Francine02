@@ -6,13 +6,11 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-### 🌍 Sobre Mim
-Olá! Sou Francine, desenvolvedora em formação. No meu dia a dia, estou mergulhada no universo do desenvolvimento de projetos Full Stack, combinando teoria e prática para criar soluções que tragam valor.
+## 🌟 Sobre Mim
 
----
+Olá! Eu sou a **Francine**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito. 💻🚀
 
-### 📫 Vamos Colaborar?
-Fique à vontade para entrar em contato! Seja para trocar ideias, propor colaborações ou discutir novas oportunidades, adoraria saber mais sobre o seu projeto.
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
 <div align="center">
   <a href="https://portfolio-2-swart-tau.vercel.app/">
@@ -31,7 +29,6 @@ Fique à vontade para entrar em contato! Seja para trocar ideias, propor colabor
 
 ---
 
-
 <table align="center">
   <tr>
     <td>
@@ -43,6 +40,7 @@ Fique à vontade para entrar em contato! Seja para trocar ideias, propor colabor
   </tr>
 </table>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
@@ -51,3 +49,12 @@ Fique à vontade para entrar em contato! Seja para trocar ideias, propor colabor
 
 ###
 ---
+
+## 🍥 Ninja Way  
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto running" />
+
+> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
+> — **Naruto Uzumaki**
+
+<br clear="both" />
