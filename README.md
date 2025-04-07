@@ -4,9 +4,10 @@
 
 ---
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 ## 🌟 Sobre Mim
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 Olá! Eu sou a **Francine**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito. 💻🚀
 
