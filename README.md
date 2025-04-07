@@ -51,7 +51,6 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ###
 ---
 
-## 🍥 Ninja Way  
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto running" />
 
