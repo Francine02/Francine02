@@ -5,12 +5,6 @@
 <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedora Full Stack | Bacharelado em Engenharia de Software</i></p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Francine02/count.svg?"  />
-</div>
-
-###
-
 ---
 
 ## 🌟 Sobre Mim
