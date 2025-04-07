@@ -39,7 +39,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
 <div align="center">
-  <img width="310rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=tokyonight" />
 </div>
 
