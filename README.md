@@ -65,5 +65,5 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=Francine02&row=1&column=7&theme=radical"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Francine02&row=1&column=7&theme=discord"/>
   </div>
