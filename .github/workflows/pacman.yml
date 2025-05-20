@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Atualizar Pac-Man Contribution 
 
 on:
   schedule: # execute every 12 hours
@@ -11,20 +11,28 @@ on:
     - main
 
 jobs:
-  generate:
+  build:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: actions/checkout@v3
+
+      - name: Criar diretório dist
+        run: mkdir -p dist
+
+      - name: Gerar gráfico de contribuições estilo Pac-Man
+        uses: AndreRuperto/svg-pacman-contributions@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark
+          output_directory: dist
+          player_style: conservador
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Publicar SVG na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
