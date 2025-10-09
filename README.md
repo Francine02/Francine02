@@ -25,9 +25,6 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <a href="https://www.linkedin.com/in/francine-ccruz/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://wa.me/5551986283397">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
-  </a>
 </div>
 
 ---
