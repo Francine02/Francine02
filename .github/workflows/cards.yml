@@ -18,14 +18,6 @@ jobs:
       - name: Create profile folder
         run: mkdir -p profile
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=Francine02&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -36,7 +28,7 @@ jobs:
 
       - name: Generate trophy card
         run: |
-          curl "https://github-profile-trophy.vercel.app/?username=Francine02&row=1&column=7&theme=discord" > profile/trophy.svg
+          curl -L "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&row=1&column=7&theme=discord" -o profile/trophy.svg
 
       - name: Commit cards
         run: |
