@@ -58,9 +58,3 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 </div>
 <br>
 <p align="center"><i>Obrigada pela visita! ❤️</i></p>
-
----
-
-<div align="center" >
-  <img src="./profile/trophy.svg" alt="Github troféus"/>
-</div>
