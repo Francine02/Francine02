@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Create profile folder
         run: mkdir -p profile
@@ -30,6 +30,9 @@ jobs:
         run: |
           curl -L "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&row=1&column=7&theme=discord" -o profile/trophy.svg
 
+      - name: Debug files
+        run: ls -l profile
+        
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
