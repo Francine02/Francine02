@@ -25,13 +25,6 @@ jobs:
           options: username=Francine02&layout=compact&langs_count=20&theme=tokyonight
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate trophy card
-        run: |
-          curl -L "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&row=1&column=7&theme=discord" -o profile/trophy.svg
-
-      - name: Debug files
-        run: ls -l profile
         
       - name: Commit cards
         run: |
