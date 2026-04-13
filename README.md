@@ -30,7 +30,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francine02&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="./profile/top-langs.svg" alt="Github top linguagens"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francine02&theme=tokyonight" alt="Github estatísticas"/>
 </div>
 
@@ -62,5 +62,5 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
 <div align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=Francine02&row=1&column=7&theme=discord" alt="Github troféus"/>
+  <img src="./profile/trophy.svg" alt="Github troféus"/>
 </div>
